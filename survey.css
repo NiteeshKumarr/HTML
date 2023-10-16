@@ -1,0 +1,13 @@
+#form{
+    width: 80vw;
+    height: 80vh;
+    background-color: aqua;
+    margin-left: 120px;
+}
+#head{
+    text-align: center;
+}
+.label1{
+    margin-top: 20px;
+
+}
